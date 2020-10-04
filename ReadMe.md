@@ -2,7 +2,7 @@
 
 # Description
 
-Very simple console snake game without any specific rules. Hit the food to increase in size.
+Simple console snake game without any specific rules. Hit the food to increase in size.
 
 # Game
 
